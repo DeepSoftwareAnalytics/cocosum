@@ -1,0 +1,99 @@
+[INFO] [Setting] EXP: False
+[INFO] [Setting] DEBUG: False
+[INFO] [Setting] Method: att-gru
+[INFO] [Setting] model_input_data_path: ./data/data_csn_voc1000_funcomformat_200218/standard_data.pkl
+[INFO] [Setting] GPU id: 1
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] batch_size: 128
+[INFO] [Setting] code_token_emb_dim: 128
+[INFO] [Setting] sbt_token_emb_dim: 128
+[INFO] [Setting] summary_token_emb_dim: 128
+[INFO] [Setting] rnn_hidden_size: 128
+[INFO] [Setting] lr: 0.001000
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] num_subprocesses: 4
+[INFO] [Setting] eval_frequency: 1
+[INFO] [Setting] device: cuda
+[INFO] Finish Preparation 15.23 secs [Total 15.23 secs]
+[INFO] code_vocab_size 1000, sbt_vocab_size -1, summary_vocab_size 1000
+[INFO] train 454451, test 15328, valid 26909
+[INFO] Epoch 1: Train Loss: 3.225, 539.59 secs [Total 554.82 secs]
+[INFO] for 26880 functions
+Ba 1.37
+B1 4.79
+B2 1.39
+B3 0.79
+B4 0.67
+
+[INFO] Epoch 2: Train Loss: 2.767, 538.88 secs [Total 1123.13 secs]
+[INFO] for 26880 functions
+Ba 1.77
+B1 5.89
+B2 1.93
+B3 1.04
+B4 0.84
+
+[INFO] Epoch 3: Train Loss: 2.652, 538.71 secs [Total 1691.74 secs]
+[INFO] for 26880 functions
+Ba 2.41
+B1 7.63
+B2 2.63
+B3 1.46
+B4 1.16
+
+[INFO] Epoch 4: Train Loss: 2.594, 539.83 secs [Total 2261.69 secs]
+[INFO] for 26880 functions
+Ba 3.84
+B1 13.73
+B2 4.3
+B3 2.2
+B4 1.67
+
+[INFO] Epoch 5: Train Loss: 2.556, 541.48 secs [Total 2836.23 secs]
+[INFO] for 26880 functions
+Ba 4.25
+B1 15.35
+B2 4.78
+B3 2.46
+B4 1.8
+
+[INFO] Epoch 6: Train Loss: 2.529, 540.19 secs [Total 3408.53 secs]
+[INFO] for 26880 functions
+Ba 4.33
+B1 15.23
+B2 4.87
+B3 2.52
+B4 1.88
+
+[INFO] Epoch 7: Train Loss: 2.508, 538.70 secs [Total 3978.93 secs]
+[INFO] for 26880 functions
+Ba 3.88
+B1 13.74
+B2 4.33
+B3 2.28
+B4 1.68
+
+[INFO] Epoch 8: Train Loss: 2.491, 542.51 secs [Total 4555.19 secs]
+[INFO] for 26880 functions
+Ba 3.37
+B1 12.16
+B2 3.78
+B3 1.97
+B4 1.43
+
+[INFO] Epoch 9: Train Loss: 2.476, 540.16 secs [Total 5132.28 secs]
+[INFO] for 26880 functions
+Ba 5.4
+B1 16.89
+B2 5.81
+B3 3.32
+B4 2.6
+
+[INFO] Epoch 10: Train Loss: 2.464, 546.07 secs [Total 5710.89 secs]
+[INFO] for 26880 functions
+Ba 3.51
+B1 12.55
+B2 3.91
+B3 2.06
+B4 1.51
+

@@ -1,0 +1,1802 @@
+Code Summarization Human Evaluation (TOSEM2021) 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/299579.java [段落说明]  
+ 
+Generated Summary 1 : Placeholder with HTML BEGIN and END comments [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/240472.java [段落说明]  
+ 
+Generated Summary 1 : Method updateOrganization . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/17083.java [段落说明]  
+ 
+Generated Summary 1 : Implement column formatted images [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/233889.java [段落说明]  
+ 
+Generated Summary 1 : a small static helper to set the color to a GradientDrawable null save [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/224861.java [段落说明]  
+ 
+Generated Summary 1 : / * ( non - Javadoc ) [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/310485.java [段落说明]  
+ 
+Generated Summary 1 : Set the namespace context to be used . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/253001.java [段落说明]  
+ 
+Generated Summary 1 : / * ( non - Javadoc ) [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/184585.java [段落说明]  
+ 
+Generated Summary 1 : Driven when the transaction is getting ready to add this ManagedObject to an object store . The after image has not been captured so the ManagedObject can still be changed . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/303086.java [段落说明]  
+ 
+Generated Summary 1 : Returns the web services URL [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/136960.java [段落说明]  
+ 
+Generated Summary 1 : Caches the cp rule user segment rels in the entity cache if it is enabled . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/7776.java [段落说明]  
+ 
+Generated Summary 1 : 根据 { @link #toString () } 方法中描述的字符串标准表示形式创建 { @code UUID } 。 [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/295629.java [段落说明]  
+ 
+Generated Summary 1 : Return true if table tableName contains field fieldName . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/108054.java [段落说明]  
+ 
+Generated Summary 1 : Like mergeLo except that this method should be called only if len1 > = len2 ; mergeLo should be called if len1 < = len2 . ( Either method may be called if len1 == len2 . ) [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/86138.java [段落说明]  
+ 
+Generated Summary 1 : Performs all the bookkeeping required at the end of a compilation . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/242525.java [段落说明]  
+ 
+Generated Summary 1 : Creates an { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/280244.java [段落说明]  
+ 
+Generated Summary 1 : Sets the current view to the one of the respective category . This method can be called in the presenter to switch to a different CategoryView . Controls the way views are being transitioned from one to another . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/426414.java [段落说明]  
+ 
+Generated Summary 1 : Creates a { @link RubyRange } by given longs . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/445129.java [段落说明]  
+ 
+Generated Summary 1 : Write to log at WARNING level . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/257580.java [段落说明]  
+ 
+Generated Summary 1 : Subclass { @code readFully () } operation which only seeks at the start of the series of operations ; seeking back at the end . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/1295.java [段落说明]  
+ 
+Generated Summary 1 : Return that we need cannot not support the web socket version [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/431797.java [段落说明]  
+ 
+Generated Summary 1 : list为装有类型为T的对象的集合，称为集合一。用T对象中通过keyGetter获得的key值组成集合，调用 loader，可以获得类型为S的对象集合，称为集合二。T和S的关系是N对1。把集合一中通过 keyGetter获得的关键值与集合二中通过loadedKeyGetter获得关键值相同的T和S对象匹配，调用match。 [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/122526.java [段落说明]  
+ 
+Generated Summary 1 : receives and invokes user - callback if success or stops pump if fails [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/145500.java [段落说明]  
+ 
+Generated Summary 1 : Creates a new connection handle for the underlying physical connection represented by the ManagedConnection instance . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/291659.java [段落说明]  
+ 
+Generated Summary 1 : Creates an insert operation . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/342607.java [段落说明]  
+ 
+Generated Summary 1 : Convert a ( normalized ) parsed type into a string - based representation of some Java type . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/375146.java [段落说明]  
+ 
+Generated Summary 1 : Maximum allowable concurrent uploads . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/424997.java [段落说明]  
+ 
+Generated Summary 1 : Replace any occurrence of the specified placeholder in the specified template string with the specified replacement value . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/90849.java [段落说明]  
+ 
+Generated Summary 1 : Used when the reault file contains binary data . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/84006.java [段落说明]  
+ 
+Generated Summary 1 : Parse a named { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/71511.java [段落说明]  
+ 
+Generated Summary 1 : Builds a DBSnapshotAvailable waiter by using custom parameters waiterParameters and other parameters defined in the waiters specification and then polls until it determines whether the resource entered the desired state or not where polling criteria is bound by either default polling strategy or custom polling strategy . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/18037.java [段落说明]  
+ 
+Generated Summary 1 : This method builds shadow vocabulary and huffman tree [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/165948.java [段落说明]  
+ 
+Generated Summary 1 : Decode a JSON document to retrieve a CreateMBean instance . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/272980.java [段落说明]  
+ 
+Generated Summary 1 : Creates a Collate expression with the given Collation specification . Commonly the collate expression is used in the Order BY clause or the string comparison expression ( e . g . equalTo or lessThan ) to specify how the two strings are compared . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/361644.java [段落说明]  
+ 
+Generated Summary 1 : Add an element assigned with its score [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/256945.java [段落说明]  
+ 
+Generated Summary 1 : Makes a copy of this AndExpr . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/84305.java [段落说明]  
+ 
+Generated Summary 1 : Expect that the first type can be addressed with GETELEM syntax and that the second type is the right type for an index into the first type . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/171847.java [段落说明]  
+ 
+Generated Summary 1 : getApplicationSubclasses [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/191556.java [段落说明]  
+ 
+Generated Summary 1 : Make the inner ring bond which is slightly shorter than the outer bond . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/39892.java [段落说明]  
+ 
+Generated Summary 1 : Factory method for creating a Field instance representing { @link Type#INT } . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/15249.java [段落说明]  
+ 
+Generated Summary 1 : Returns the authentication information for a request . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/131070.java [段落说明]  
+ 
+Generated Summary 1 : Creates a software system and adds it to the model . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/156680.java [段落说明]  
+ 
+Generated Summary 1 : Access by multiple threads [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/390881.java [段落说明]  
+ 
+Generated Summary 1 : all [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/127908.java [段落说明]  
+ 
+Generated Summary 1 : Copies the target into the output image and applies the cosine window to it . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/189351.java [段落说明]  
+ 
+Generated Summary 1 : Obtains an instance of { @code HijrahDate } from the Hijrah era year month - of - year and day - of - month . This uses the Hijrah era . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/342661.java [段落说明]  
+ 
+Generated Summary 1 : Return the package that this class is contained in . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/23360.java [段落说明]  
+ 
+Generated Summary 1 : 优化的创建函数，如果为0或100时，返回更直接的采样器 [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/376674.java [段落说明]  
+ 
+Generated Summary 1 : accessable to subclasses and this class stupid java . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/220408.java [段落说明]  
+ 
+Generated Summary 1 : Completes this cache entry . <p > [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/371337.java [段落说明]  
+ 
+Generated Summary 1 : Deciding whether having clause can be moved to where clause [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/450972.java [段落说明]  
+ 
+Generated Summary 1 : Removes a value from the cache by its key . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/373240.java [段落说明]  
+ 
+Generated Summary 1 : Remove the path prefix from a file . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/72713.java [段落说明]  
+ 
+Generated Summary 1 : <p > Returns status information for each of your AWS managed Config rules . The status includes information such as the last time AWS Config invoked the rule the last time AWS Config failed to invoke the rule and the related error for the last failure . < / p > [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/416332.java [段落说明]  
+ 
+Generated Summary 1 : Read in web . xml and differents producers the optional DASHBOARD_ROLES config and set it in OcelotConfiguration [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/316245.java [段落说明]  
+ 
+Generated Summary 1 : { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/365023.java [段落说明]  
+ 
+Generated Summary 1 : Use this API to fetch all the nsspparams resources that are configured on netscaler . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/186165.java [段落说明]  
+ 
+Generated Summary 1 : Retrieve a file s content and content metadata . You must call the { @link Downloader } s { @code close () } method ; use a { @code try } / { @code finally } . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/446247.java [段落说明]  
+ 
+Generated Summary 1 : Gets extension . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/200071.java [段落说明]  
+ 
+Generated Summary 1 : Push the delta metrics to the mr . The delta is since the last push / interval . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/5789.java [段落说明]  
+ 
+Generated Summary 1 : Creates a new random event . This method randomly pick either one of its currently running state machines or start a new state machine for a random IP address . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/220863.java [段落说明]  
+ 
+Generated Summary 1 : Determines if the given element should be shown in the editor . <p > [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/112413.java [段落说明]  
+ 
+Generated Summary 1 : To fire off start document trace event [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/148697.java [段落说明]  
+ 
+Generated Summary 1 : Notifies that a peer was discovered . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/375507.java [段落说明]  
+ 
+Generated Summary 1 : References the view which belongs to a specific resource ID by using the view holder pattern . The view is implicitly casted to the type of the field it is assigned to . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/433506.java [段落说明]  
+ 
+Generated Summary 1 : Configuration based on system properties set by the memcacheAddOn [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/408051.java [段落说明]  
+ 
+Generated Summary 1 : Sets this to a matrix that first rotates then translates . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/353875.java [段落说明]  
+ 
+Generated Summary 1 : Sets the full URL for the web content displayed in this WonderPushView s WebView . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/11682.java [段落说明]  
+ 
+Generated Summary 1 : Allow an other build of the same project to be scheduled if it has other parameters . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/137531.java [段落说明]  
+ 
+Generated Summary 1 : Returns the first cp measurement unit in the ordered set where uuid = &#63 ; . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/78377.java [段落说明]  
+ 
+Generated Summary 1 : Extracts all defined properties of the specified field and returns a Properties object [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/239511.java [段落说明]  
+ 
+Generated Summary 1 : Get a list of layer digests from docker manifest . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/295769.java [段落说明]  
+ 
+Generated Summary 1 : Alter a table to add a SRID constraint . The srid must be greater than zero . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/91577.java [段落说明]  
+ 
+Generated Summary 1 : Returns a new Atomix configuration from the given file . <p > The configuration will be loaded from the given file and will fall back to { @code atomix . conf } { @code atomix . json } or { @code atomix . properties } if located on the classpath . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/212944.java [段落说明]  
+ 
+Generated Summary 1 : Obtains a local date in Pax calendar system from the era year - of - era and day - of - year fields . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/359588.java [段落说明]  
+ 
+Generated Summary 1 : Gets the ID of the configuration with the maximum value . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/18677.java [段落说明]  
+ 
+Generated Summary 1 : Validate that the operation is being applied on a boolean type SDVariable [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/158914.java [段落说明]  
+ 
+Generated Summary 1 : Return [ hostname ] / ip string for the given { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/421101.java [段落说明]  
+ 
+Generated Summary 1 : Does a depth - first - search starting at node j . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/346998.java [段落说明]  
+ 
+Generated Summary 1 : / * ( non - Javadoc ) [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/16807.java [段落说明]  
+ 
+Generated Summary 1 : Conduct forward pass using a single input array . Note that this method can only be used with ComputationGraphs with a single input array . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/190100.java [段落说明]  
+ 
+Generated Summary 1 : Change the base of the group to the new base <code > newBase< / code > . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/9855.java [段落说明]  
+ 
+Generated Summary 1 : Build condition . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/69718.java [段落说明]  
+ 
+Generated Summary 1 : Marshall the given parameter object . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/272441.java [段落说明]  
+ 
+Generated Summary 1 : Terminate a CSS block . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/239562.java [段落说明]  
+ 
+Generated Summary 1 : Convert the Boolean notM2Compatible parameter to Boolean useMavenPatterns ( after applying ! ) This convertion comes after a name change ( !notM2Compatible - > useMavenPatterns ) [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/204429.java [段落说明]  
+ 
+Generated Summary 1 : Create a PayloadReader to execute read . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/402568.java [段落说明]  
+ 
+Generated Summary 1 : Tag logic [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/370798.java [段落说明]  
+ 
+Generated Summary 1 : Adds a new deletion action that clears all keys with the given path prefix . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/450913.java [段落说明]  
+ 
+Generated Summary 1 : Guarded By Segment . this [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/107973.java [段落说明]  
+ 
+Generated Summary 1 : Sets the DST start rule to a fixed date within a month . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/125504.java [段落说明]  
+ 
+Generated Summary 1 : Write list file . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/224924.java [段落说明]  
+ 
+Generated Summary 1 : The only difference between version 1 . 5 and 1 . 6 of the schema were to make is possible to define discovery options this resulted in the host and port attributes becoming optional - this method also indicates if discovery options are required where the host and port were not supplied . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/230502.java [段落说明]  
+ 
+Generated Summary 1 : Dumps the partition IDs per node in terms of zone n - ary type . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/126674.java [段落说明]  
+ 
+Generated Summary 1 : Converts a String into an Enum . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/321559.java [段落说明]  
+ 
+Generated Summary 1 : { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/34021.java [段落说明]  
+ 
+Generated Summary 1 : Gets the query param or returns default value [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/196735.java [段落说明]  
+ 
+Generated Summary 1 : Resolves the first bound for the { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/209793.java [段落说明]  
+ 
+Generated Summary 1 : Retrieve one specific value from a registry . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/23205.java [段落说明]  
+ 
+Generated Summary 1 : List分页函数 [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/142660.java [段落说明]  
+ 
+Generated Summary 1 : Removes a number of solutions from a list [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/305624.java [段落说明]  
+ 
+Generated Summary 1 : { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/352505.java [段落说明]  
+ 
+Generated Summary 1 : Sync asynchronously written records on disk . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/2126.java [段落说明]  
+ 
+Generated Summary 1 : Decodes the specified region of the buffer into an unadjusted frame length . The default implementation is capable of decoding the specified region into an unsigned 8 / 16 / 24 / 32 / 64 bit integer . Override this method to decode the length field encoded differently . Note that this method must not modify the state of the specified buffer ( e . g . { @code readerIndex } { @code writerIndex } and the content of the buffer . ) [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/298533.java [段落说明]  
+ 
+Generated Summary 1 : Computes the complete backbone for a given formula w . r . t . a collection of variables and a backbone type . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/123550.java [段落说明]  
+ 
+Generated Summary 1 : Set the string length range . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/112410.java [段落说明]  
+ 
+Generated Summary 1 : Report the CDATA trace event [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/70240.java [段落说明]  
+ 
+Generated Summary 1 : Marshall the given parameter object . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/395867.java [段落说明]  
+ 
+Generated Summary 1 : This method processes a comma separated list of correlation identifiers defined as a scope|value pair . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/102211.java [段落说明]  
+ 
+Generated Summary 1 : <p > Guess a scop domain . If an exact match is found return that . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/37913.java [段落说明]  
+ 
+Generated Summary 1 : Loads the Graylog plugin properties file from the given JAR file . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/158786.java [段落说明]  
+ 
+Generated Summary 1 : { @inheritDoc } [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/333261.java [段落说明]  
+ 
+Generated Summary 1 : Create an image data that is appropriate for the reference supplied [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/281199.java [段落说明]  
+ 
+Generated Summary 1 : Method called to make sure current main - level input buffer has at least specified number of characters available consequtively without having to call { @link #loadMore } . It can only be called when input comes from main - level buffer ; further call can shift content in input buffer so caller has to flush any data still pending . In short caller has to know exactly what it s doing . : - ) <p > Note : method does not check for any other input sources than the current one -- if current source can not fulfill the request a failure is indicated . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/201456.java [段落说明]  
+ 
+Generated Summary 1 : Remove a tracker from the system [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/191965.java [段落说明]  
+ 
+Generated Summary 1 : Check the feasibility of the candidate pair { n m } . A candidate pair is syntactically feasible iff all k - look - ahead rules hold . These look ahead rules check adjacency relation of the mapping . If an edge is mapped in g1 it should also be mapped in g2 and vise - versa ( 0 - look - ahead ) . If an edge in g1 is unmapped but the edge is adjacent to an another mapped vertex ( terminal ) then the number of such edges should be less or equal in g1 compared to g2 ( 1 - look - ahead ) . If the edge is unmapped and non - terminal then the number of such edges should be less or equal in g1 compared to g2 ( 2 - look - ahead ) . The above feasibility rules are for subgraph - isomorphism and have been adapted for subgraph - monomorphism . For a monomorphism a mapped edge in g2 does not have to be present in g1 . The 2 - look - ahead also requires summing the terminal and remaining counts ( or sorting the vertices ) . The semantic feasibility verifies that the labels the label n m are compatabile and that the label on each matched edge is compatabile . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/154470.java [段落说明]  
+ 
+Generated Summary 1 : Borrows an entry from the cache . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/404779.java [段落说明]  
+ 
+Generated Summary 1 : read the data . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/297786.java [段落说明]  
+ 
+Generated Summary 1 : URL - decode the input with UTF - 8 . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/125924.java [段落说明]  
+ 
+Generated Summary 1 : / * ( non - Javadoc ) [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/391279.java [段落说明]  
+ 
+Generated Summary 1 : By calling this method the MVC group will be destroyed . This means that the controller instance on the server will be removed and the model that is managed and synchronized between client and server will be detached . After this method is called the view should not be used anymore . It s important to call this method to removePresentationModel all the unneeded references on the server . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/164817.java [段落说明]  
+ 
+Generated Summary 1 : / * ( non - Javadoc ) [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/92696.java [段落说明]  
+ 
+Generated Summary 1 : Task hook called in bolt every time a tuple gets failed [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/349537.java [段落说明]  
+ 
+Generated Summary 1 : NOTE : preserved for performance testing [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/155556.java [段落说明]  
+ 
+Generated Summary 1 : This is not designed to be a safe shutdown . This is designed to stop sending messages to clients as fast as possible . It is currently called from VoltDB . crash ... [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/287824.java [段落说明]  
+ 
+Generated Summary 1 : Convert from a domain object to a RiakObject . <p > The domain object itself may be completely annotated with everything required to produce a RiakObject except for the value portion . This will prefer annotated items over the { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/380198.java [段落说明]  
+ 
+Generated Summary 1 : Main - method that is executed when the tests are executed [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/236256.java [段落说明]  
+ 
+Generated Summary 1 : Gets the index of a ExpandableWrapper within the helper item list based on the index of the ExpandableWrapper . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/286444.java [段落说明]  
+ 
+Generated Summary 1 : Extracts the template name from the given LDAP filter . The LDAP filter is structure as established in the WisdomViewVisitor . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/228605.java [段落说明]  
+ 
+Generated Summary 1 : Get corporation medals Returns a corporation&#39 ; s medals --- This route is cached for up to 3600 seconds SSO Scope : esi - corporations . read_medals . v1 [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/25460.java [段落说明]  
+ 
+Generated Summary 1 : Exit the inner - most Scope remove all Keys created since the matching enter call except for the listed Keys . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/246401.java [段落说明]  
+ 
+Generated Summary 1 : Adds a comment to the journal entry . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/99292.java [段落说明]  
+ 
+Generated Summary 1 : Report features or messages for a given item . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/34075.java [段落说明]  
+ 
+Generated Summary 1 : 验证term的名字或者词性是否符合条件 [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/106762.java [段落说明]  
+ 
+Generated Summary 1 : Returns whether the result blob has been generated successfully by this exemption mechanism . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/342348.java [段落说明]  
+ 
+Generated Summary 1 : Get the class helper tree for the given class . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/266052.java [段落说明]  
+ 
+Generated Summary 1 : Checks whether the layout is computed and recomputes it when necessary . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/306470.java [段落说明]  
+ 
+Generated Summary 1 : Returns the scorer index for document <code > n< / code > . Implementation copied from lucene MultiReader class . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/435755.java [段落说明]  
+ 
+Generated Summary 1 : Calculate the CRC value with data from a byte array . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/170230.java [段落说明]  
+ 
+Generated Summary 1 : Method isToBeDeleted . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/210888.java [段落说明]  
+ 
+Generated Summary 1 : Parse a string representation of a Boolean value . XER files sometimes have N and Y to indicate boolean [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/442534.java [段落说明]  
+ 
+Generated Summary 1 : Set the default key order . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/441577.java [段落说明]  
+ 
+Generated Summary 1 : Set files times . Non null times are changed . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/263149.java [段落说明]  
+ 
+Generated Summary 1 : Loads the { @link TemporalSemanticSpace } from the text formatted file [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/325205.java [段落说明]  
+ 
+Generated Summary 1 : Write the n least significant bits of parameter b starting with the most significant i . e . from left to right . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/82008.java [段落说明]  
+ 
+Generated Summary 1 : <! -- begin - user - doc -- > <! -- end - user - doc -- > [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/78958.java [段落说明]  
+ 
+Generated Summary 1 : Prints a ReadablePeriod to a Writer . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/441542.java [段落说明]  
+ 
+Generated Summary 1 : Filter fields with default access . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/396205.java [段落说明]  
+ 
+Generated Summary 1 : Calculates the Normalized Euclidean distance between two points . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/117597.java [段落说明]  
+ 
+Generated Summary 1 : List all SKUs . List all SKUs . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/130601.java [段落说明]  
+ 
+Generated Summary 1 : Checks if given node set contains node . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/216462.java [段落说明]  
+ 
+Generated Summary 1 : Deletes a resource with the given index writer . <p > [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/260211.java [段落说明]  
+ 
+Generated Summary 1 : Acquires the canonical File for the supplied file . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/124976.java [段落说明]  
+ 
+Generated Summary 1 : Returns the { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/404339.java [段落说明]  
+ 
+Generated Summary 1 : Called when a component instance is unready . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/19359.java [段落说明]  
+ 
+Generated Summary 1 : Invoke { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/92649.java [段落说明]  
+ 
+Generated Summary 1 : Copy a URL package to a target folder [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/16644.java [段落说明]  
+ 
+Generated Summary 1 : Convert data to probability co - occurrences ( aka calculating the kernel ) [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/438381.java [段落说明]  
+ 
+Generated Summary 1 : Check that one class is assignable to another . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/260363.java [段落说明]  
+ 
+Generated Summary 1 : Renders class as : class - simple - name ( class - package ) * markers . For anonymous class simple name will be Class$1 . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/292706.java [段落说明]  
+ 
+Generated Summary 1 : Extract package name . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/157896.java [段落说明]  
+ 
+Generated Summary 1 : #ifdef JAVA4 [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/375806.java [段落说明]  
+ 
+Generated Summary 1 : Log the user in and get a valid access token . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/428858.java [段落说明]  
+ 
+Generated Summary 1 : Delete a document identified by { @code spaceId : key } from index . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/278368.java [段落说明]  
+ 
+Generated Summary 1 : Update the specified collection . Note that this method is only usable with WSAPI versions 2 . 0 and above . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/318073.java [段落说明]  
+ 
+Generated Summary 1 : Joins strings or objects string representations using given separator . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/388092.java [段落说明]  
+ 
+Generated Summary 1 : Returns a list of reports in a ReportsConfig - uration object it only loads reports in restrictedToNamed this is useful as a secondary report - restriction mechanism . So you would pass in all reports the user can access . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/344924.java [段落说明]  
+ 
+Generated Summary 1 : Verify table or view exists [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/336704.java [段落说明]  
+ 
+Generated Summary 1 : Click the middle mouse button at the top left corner of the element . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/37766.java [段落说明]  
+ 
+Generated Summary 1 : Close all connections . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/170788.java [段落说明]  
+ 
+Generated Summary 1 : 673411 - start [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/279699.java [段落说明]  
+ 
+Generated Summary 1 : Perform the given instrumentation actions on a class . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/157921.java [段落说明]  
+ 
+Generated Summary 1 : Appends the required number of spaces to the StringBuilder . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/448332.java [段落说明]  
+ 
+Generated Summary 1 : Creates a method present in the TextGroup interface . Code : getVisitor () . visitComment ( new Text< > ( self () getVisitor () text )) ; return this . self () ; [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/239524.java [段落说明]  
+ 
+Generated Summary 1 : Get the VCS revision from the Jenkins build environment . The search will one of SVN_REVISION GIT_COMMIT P4_CHANGELIST in the environment . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/42440.java [段落说明]  
+ 
+Generated Summary 1 : Parses a userTask declaration . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/92826.java [段落说明]  
+ 
+Generated Summary 1 : Append the jar to be bootstrap class load . This makes the classes in the jar behave as if they are loaded from the BCL . E . g . classes from java . lang can now call the classes in the jar . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/78479.java [段落说明]  
+ 
+Generated Summary 1 : Check that the proposals all have consistent read write sets [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/264530.java [段落说明]  
+ 
+Generated Summary 1 : Get a feature from its class or interface . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/201546.java [段落说明]  
+ 
+Generated Summary 1 : A stream obtained via this call must be closed before using other APIs of this class or else the invocation will block . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/263659.java [段落说明]  
+ 
+Generated Summary 1 : Convert a flag field into enums [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/297394.java [段落说明]  
+ 
+Generated Summary 1 : Any server can initiate a move request no need for [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/299449.java [段落说明]  
+ 
+Generated Summary 1 : Create an instance of a class . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/196175.java [段落说明]  
+ 
+Generated Summary 1 : Iterate over the collection specified in parallel batches using the specified minimum fork and task count sizes . The { @code Procedure } used must be stateless or use concurrent aware objects if they are to be shared . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/14311.java [段落说明]  
+ 
+Generated Summary 1 : Handle web finger discovery request and produce response entity . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/315256.java [段落说明]  
+ 
+Generated Summary 1 : Like print but prints out a whole slew of objects on the same line . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/366256.java [段落说明]  
+ 
+Generated Summary 1 : Use this API to fetch sslvserver_binding resources of given names . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/78465.java [段落说明]  
+ 
+Generated Summary 1 : Convert the enrollment request to a JSON object [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/45097.java [段落说明]  
+ 
+Generated Summary 1 : Returns the dimension of null space . The number of negligible singular values . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/59200.java [段落说明]  
+ 
+Generated Summary 1 : Marshall the given parameter object . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/415249.java [段落说明]  
+ 
+Generated Summary 1 : method to add PolymerNotations to the existent [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/406592.java [段落说明]  
+ 
+Generated Summary 1 : Triggers combining . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/210695.java [段落说明]  
+ 
+Generated Summary 1 : Print a constraint type . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/405347.java [段落说明]  
+ 
+Generated Summary 1 : Compares the first comparable to the second . This is useful to avoid type safety warnings when dealing with the keys of { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/17973.java [段落说明]  
+ 
+Generated Summary 1 : Reset the learning related configs of the layer to default . When instantiated with a global neural network configuration the parameters specified in the neural network configuration will be used . For internal use with the transfer learning API . Users should not have to call this method directly . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/50649.java [段落说明]  
+ 
+Generated Summary 1 : REGR_SXY makes the following computation after the elimination of null ( arg1 arg2 ) pairs : [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/99380.java [段落说明]  
+ 
+Generated Summary 1 : Capture image as BYteBuffer . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/231499.java [段落说明]  
+ 
+Generated Summary 1 : Set the { @link GVRShaderData material } for this pass . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/400339.java [段落说明]  
+ 
+Generated Summary 1 : Closes a statement . [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/87222.java [段落说明]  
+ 
+Generated Summary 1 : Sends the metadata request using the given request method to the server and returns the raw metadata { [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 
+URL: 	 https://github.com/YanlinWang/CodeSum/tree/master/human-evaluation/data_quality/java_files/420086.java [段落说明]  
+ 
+Generated Summary 1 : Define a REST endpoint mapped to HTTP OPTIONS [矩阵题] 
+ 0  1  2  3  4 
+ informative 
+ naturalness 
+
+ 
+ 

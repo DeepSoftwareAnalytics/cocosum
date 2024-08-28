@@ -1,0 +1,131 @@
+(tf2) yanlwang@TableSenseGPU03:/mnt/CodeSum$ python runSeqModel.py
+[INFO] [Setting] EXP: False
+[INFO] [Setting] DEBUG: False
+[INFO] [Setting] trimTilEOS: False
+[INFO] [Setting] Method: ast-att-gru
+[INFO] [Setting] in_path: ../Data/csn/correct_sum_uml_diff_dataset/diff_dc_len_code_filter_voc1w_datasets/csn_code_filter_d80c16s100_vocd10000c10000s10000.pkl
+[INFO] [Setting] GPU id: 1
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] batch_size: 256
+[INFO] [Setting] code_dim: 128
+[INFO] [Setting] sbt_dim: 128
+[INFO] [Setting] summary_dim: 128
+[INFO] [Setting] rnn_hidden_size: 128
+[INFO] [Setting] lr: 0.001000
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] num_subprocesses: 4
+[INFO] [Setting] eval_frequency: 1
+[INFO] [Setting] out_path: dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+[INFO] [Setting] device: cuda:1
+[INFO] Finish Preparation 12.37 secs [Total 12.37 secs]
+[INFO] code_vocab_size 10000, sbt_vocab_size 10000, summary_vocab_size 10000
+[INFO] train 271619, val 8995, test 19353
+[INFO] Epoch 1: Train Loss: 5.051, 88.13 secs [Total 100.51 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 1.31
+Cumulative 1/2/3-gram BLEU: 8.33, 4.32, 2.28
+Individual 2/3/4-gram BLEU: 2.25, 0.63, 0.25
+EMSE BLEU: 10.0
+CodeBert Smooth Bleu: 8.993730
+Other Smooth Bleu: 8.990000
+
+[INFO] Output Model to ./model/1dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+/home/yanlwang/anaconda3/envs/tf2/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type AstAttGRUModel. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/envs/tf2/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type GRUEncoder. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/envs/tf2/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Embedding. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/envs/tf2/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type GRU. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/envs/tf2/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type ASTAttnGRUDecoder. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/envs/tf2/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type GRUCell. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/envs/tf2/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Sequential. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/envs/tf2/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Linear. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/envs/tf2/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type ReLU. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+[INFO] Epoch 2: Train Loss: 4.151, 84.37 secs [Total 216.68 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 1.47
+Cumulative 1/2/3-gram BLEU: 8.76, 4.68, 2.55
+Individual 2/3/4-gram BLEU: 2.5, 0.76, 0.28
+EMSE BLEU: 10.45
+CodeBert Smooth Bleu: 10.004983
+Other Smooth Bleu: 9.410000
+
+[INFO] Output Model to ./model/2dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+[INFO] Epoch 3: Train Loss: 3.797, 86.45 secs [Total 334.60 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 1.77
+Cumulative 1/2/3-gram BLEU: 9.81, 5.3, 2.97
+Individual 2/3/4-gram BLEU: 2.86, 0.93, 0.38
+EMSE BLEU: 11.21
+CodeBert Smooth Bleu: 10.432573
+Other Smooth Bleu: 11.440000
+
+[INFO] Output Model to ./model/3dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+[INFO] Epoch 4: Train Loss: 3.585, 85.89 secs [Total 453.54 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 2.06
+Cumulative 1/2/3-gram BLEU: 11.24, 6.14, 3.45
+Individual 2/3/4-gram BLEU: 3.35, 1.09, 0.44
+EMSE BLEU: 11.81
+CodeBert Smooth Bleu: 10.600632
+Other Smooth Bleu: 13.130000
+
+[INFO] Output Model to ./model/4dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+[INFO] Epoch 5: Train Loss: 3.439, 86.36 secs [Total 572.60 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 2.05
+Cumulative 1/2/3-gram BLEU: 10.89, 5.98, 3.4
+Individual 2/3/4-gram BLEU: 3.28, 1.1, 0.45
+EMSE BLEU: 11.83
+CodeBert Smooth Bleu: 10.915173
+Other Smooth Bleu: 12.880000
+
+[INFO] Output Model to ./model/5dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+[INFO] Epoch 6: Train Loss: 3.330, 85.52 secs [Total 690.68 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 2.09
+Cumulative 1/2/3-gram BLEU: 10.75, 5.98, 3.43
+Individual 2/3/4-gram BLEU: 3.33, 1.13, 0.47
+EMSE BLEU: 11.79
+CodeBert Smooth Bleu: 11.008402
+Other Smooth Bleu: 13.010000
+
+[INFO] Output Model to ./model/6dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+[INFO] Epoch 7: Train Loss: 3.243, 84.53 secs [Total 807.64 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 2.07
+Cumulative 1/2/3-gram BLEU: 10.44, 5.83, 3.38
+Individual 2/3/4-gram BLEU: 3.26, 1.13, 0.47
+EMSE BLEU: 11.64
+CodeBert Smooth Bleu: 11.099038
+Other Smooth Bleu: 12.470000
+
+[INFO] Output Model to ./model/7dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+[INFO] Epoch 8: Train Loss: 3.171, 85.09 secs [Total 924.74 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 2.14
+Cumulative 1/2/3-gram BLEU: 10.79, 6.01, 3.49
+Individual 2/3/4-gram BLEU: 3.35, 1.17, 0.49
+EMSE BLEU: 11.74
+CodeBert Smooth Bleu: 11.039340
+Other Smooth Bleu: 13.090000
+
+[INFO] Output Model to ./model/8dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+[INFO] Epoch 9: Train Loss: 3.110, 86.00 secs [Total 1043.38 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 2.02
+Cumulative 1/2/3-gram BLEU: 10.41, 5.78, 3.33
+Individual 2/3/4-gram BLEU: 3.21, 1.1, 0.46
+EMSE BLEU: 11.61
+CodeBert Smooth Bleu: 11.178431
+Other Smooth Bleu: 12.560000
+
+[INFO] Output Model to ./model/9dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+[INFO] Epoch 10: Train Loss: 3.058, 83.48 secs [Total 1159.20 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 2.08
+Cumulative 1/2/3-gram BLEU: 10.32, 5.79, 3.37
+Individual 2/3/4-gram BLEU: 3.25, 1.14, 0.49
+EMSE BLEU: 11.67
+CodeBert Smooth Bleu: 11.297292
+Other Smooth Bleu: 12.310000
+
+[INFO] Output Model to ./model/10dlen100_clen22_slen100_dvoc-1_cvoc-1_svoc-1_djl1_dfp0_dsi1_dlc1_dr1_cfp1_csi1_cfd1_ufd1_dataset.pkl_mtast-att-gru_bs256_ddim128_cdim128_sdim128_hdim128_lr0.001_20200329103728
+(tf2) yanlwang@TableSenseGPU03:/mnt/CodeSum$

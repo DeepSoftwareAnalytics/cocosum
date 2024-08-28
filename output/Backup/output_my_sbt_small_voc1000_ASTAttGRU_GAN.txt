@@ -1,0 +1,104 @@
+[INFO] [Setting] DEBUG: False
+[INFO] [Setting] Method: Adversarial Learning with ast-att-gru
+[INFO] [Setting] model_input_data_path: ./data/my_sbt_small_voc1000/dataset.pkl
+[INFO] [Setting] GPU id: 3
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] token_emb_dim: 128
+[INFO] [Setting] sbt_emb_dim: 128
+[INFO] [Setting] sum_emb_dim: 128
+[INFO] [Setting] rnn_hidden_size: 128
+[INFO] [Setting] lr: 0.001000
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] num_subprocesses: 4
+[INFO] [Setting] eval_frequency: 1
+[INFO] [Setting] device: cuda
+[INFO] Epoch 1: Train Gen Negative log likelihood 40252.201, Train Dis Loss 0.089, 1123.26 secs [Total 1133.17 secs]
+[INFO] length of predicted sentence: avg 11.025341 std 0.410156
+[INFO] for 19968 functions
+Ba 0.35
+B1 8.04
+B2 1.24
+B3 0.13
+B4 0.01
+
+[INFO] Epoch 2: Train Gen Negative log likelihood 52486.635, Train Dis Loss 0.009, 1095.81 secs [Total 2315.26 secs]
+[INFO] length of predicted sentence: avg 9.905298 std 3.664517
+[INFO] for 19968 functions
+Ba 0.36
+B1 7.18
+B2 1.0
+B3 0.12
+B4 0.02
+
+[INFO] Epoch 3: Train Gen Negative log likelihood 53550.281, Train Dis Loss 0.007, 1175.98 secs [Total 3561.57 secs]
+[INFO] length of predicted sentence: avg 12.563952 std 13.844656
+[INFO] for 19968 functions
+Ba 0.69
+B1 9.12
+B2 1.27
+B3 0.3
+B4 0.07
+
+[INFO] Epoch 4: Train Gen Negative log likelihood 53525.547, Train Dis Loss 0.006, 1077.89 secs [Total 4728.38 secs]
+[INFO] length of predicted sentence: avg 13.989884 std 30.656170
+[INFO] for 19968 functions
+Ba 0.4
+B1 5.94
+B2 0.72
+B3 0.12
+B4 0.05
+
+[INFO] Epoch 5: Train Gen Negative log likelihood 53050.015, Train Dis Loss 0.004, 1140.86 secs [Total 5933.10 secs]
+[INFO] length of predicted sentence: avg 8.462290 std 11.515953
+[INFO] for 19968 functions
+Ba 0.54
+B1 5.38
+B2 0.89
+B3 0.2
+B4 0.09
+
+[INFO] Epoch 6: Train Gen Negative log likelihood 52097.949, Train Dis Loss 0.004, 1196.90 secs [Total 7211.66 secs]
+[INFO] length of predicted sentence: avg 5.338341 std 4.776506
+[INFO] for 19968 functions
+Ba 0.16
+B1 1.6
+B2 0.24
+B3 0.06
+B4 0.03
+
+[INFO] Epoch 7: Train Gen Negative log likelihood 50876.599, Train Dis Loss 0.002, 1181.84 secs [Total 8466.13 secs]
+[INFO] length of predicted sentence: avg 15.170323 std 24.713016
+[INFO] for 19968 functions
+Ba 0.43
+B1 9.2
+B2 1.23
+B3 0.12
+B4 0.03
+
+[INFO] Epoch 8: Train Gen Negative log likelihood 49571.438, Train Dis Loss 0.002, 1032.29 secs [Total 9564.42 secs]
+[INFO] length of predicted sentence: avg 9.296825 std 12.734963
+[INFO] for 19968 functions
+Ba 0.54
+B1 5.82
+B2 0.9
+B3 0.19
+B4 0.08
+
+[INFO] Epoch 9: Train Gen Negative log likelihood 48000.526, Train Dis Loss 0.002, 1121.90 secs [Total 10775.45 secs]
+[INFO] length of predicted sentence: avg 10.252354 std 12.297908
+[INFO] for 19968 functions
+Ba 0.64
+B1 7.29
+B2 1.15
+B3 0.24
+B4 0.08
+
+[INFO] Epoch 10: Train Gen Negative log likelihood 46535.350, Train Dis Loss 0.002, 1195.75 secs [Total 12058.39 secs]
+[INFO] length of predicted sentence: avg 12.727414 std 15.973989
+[INFO] for 19968 functions
+Ba 0.85
+B1 9.22
+B2 1.47
+B3 0.31
+B4 0.13
+

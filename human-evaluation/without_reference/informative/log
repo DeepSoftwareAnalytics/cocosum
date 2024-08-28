@@ -1,0 +1,16 @@
+C:\Users\v-ensh\Anaconda3\python.exe C:/workspace/Code/new_codesum/CodeSum/human-evaluation/without_reference/informative/huamn_eval.py
+------------------------------------------------------------------------------------------
+model type 	 1	  2	 3	 4	 5	 Avg	 ≥4	 ≥3	 ≤2
+cocogum   	 87 	 147 	 308 	 259 	 199 	 3.34(1.20) 	 458 	 766 	 234
+ast_att_gru   	 103 	 236 	 312 	 248 	 101 	 3.01(1.14) 	 349 	 661 	 339
+astnn   	 320 	 286 	 189 	 130 	 75 	 2.35(1.26) 	 205 	 394 	 606
+rencos   	 254 	 278 	 209 	 170 	 89 	 2.56(1.28) 	 259 	 468 	 532
+------------------------------------------------------------------------------------------
+cocogum and ast_att_gru, pvalue:8.246301215039014e-19, cliffsDelta:0.158206, effect size:small
+cocogum and astnn, pvalue:6.28639812864945e-73, cliffsDelta:0.424025, effect size:medium
+cocogum and rencos, pvalue:3.96856899773712e-52, cliffsDelta:0.337881, effect size:medium
+ast_att_gru and astnn, pvalue:1.2434481056260308e-47, cliffsDelta:0.309593, effect size:small
+ast_att_gru and rencos, pvalue:9.878010940157551e-25, cliffsDelta:0.211541, effect size:small
+astnn and rencos, pvalue:7.803578364015607e-08, cliffsDelta:-0.095242, effect size:negligible
+
+Process finished with exit code 0

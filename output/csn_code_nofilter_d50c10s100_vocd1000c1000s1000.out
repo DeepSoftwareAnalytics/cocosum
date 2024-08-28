@@ -1,0 +1,91 @@
+[INFO] [Setting] EXP: False
+[INFO] [Setting] DEBUG: False
+[INFO] [Setting] Method: att-gru
+[INFO] [Setting] in_path: ../Data/csn/diffvocab_datasets_with_sbt/csn_code_nofilter_d50c10s100_vocd1000c1000s1000.pkl
+[INFO] [Setting] GPU id: 0
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] batch_size: 256
+[INFO] [Setting] code_dim: 128
+[INFO] [Setting] sbt_dim: 128
+[INFO] [Setting] summary_dim: 128
+[INFO] [Setting] rnn_hidden_size: 256
+[INFO] [Setting] lr: 0.001000
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] num_subprocesses: 4
+[INFO] [Setting] eval_frequency: 1
+[INFO] [Setting] out_path: ./model.pth
+[INFO] [Setting] device: cuda
+[INFO] Finish Preparation 33.36 secs [Total 33.36 secs]
+[INFO] code_vocab_size 1000, sbt_vocab_size -1, summary_vocab_size 1000
+[INFO] train 387565, test 11926, valid 22787
+[INFO] Epoch 1: Train Loss: 3.371, 111.47 secs [Total 144.83 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 7.54
+Cumulative 1/2/3-gram BLEU: 27.1, 16.27, 10.57
+Individual 2/3/4-gram BLEU: 9.77, 4.46, 2.75
+CodeBert Smooth Bleu: 19.241850
+Other Smooth Bleu: 26.190000
+
+[INFO] Epoch 2: Train Loss: 2.699, 119.81 secs [Total 310.09 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 7.83
+Cumulative 1/2/3-gram BLEU: 26.55, 16.35, 10.86
+Individual 2/3/4-gram BLEU: 10.07, 4.79, 2.94
+CodeBert Smooth Bleu: 19.234361
+Other Smooth Bleu: 25.250000
+
+[INFO] Epoch 3: Train Loss: 2.531, 115.55 secs [Total 465.23 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 8.46
+Cumulative 1/2/3-gram BLEU: 28.8, 17.75, 11.77
+Individual 2/3/4-gram BLEU: 10.94, 5.17, 3.14
+CodeBert Smooth Bleu: 20.411472
+Other Smooth Bleu: 29.460000
+
+[INFO] Epoch 4: Train Loss: 2.433, 104.18 secs [Total 624.89 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 8.83
+Cumulative 1/2/3-gram BLEU: 29.79, 18.45, 12.26
+Individual 2/3/4-gram BLEU: 11.43, 5.41, 3.29
+CodeBert Smooth Bleu: 20.377663
+Other Smooth Bleu: 29.720000
+
+[INFO] Epoch 5: Train Loss: 2.363, 108.20 secs [Total 789.74 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 9.49
+Cumulative 1/2/3-gram BLEU: 32.04, 19.77, 13.18
+Individual 2/3/4-gram BLEU: 12.21, 5.85, 3.54
+CodeBert Smooth Bleu: 20.980419
+Other Smooth Bleu: 31.900000
+
+[INFO] Epoch 6: Train Loss: 2.309, 113.57 secs [Total 962.28 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 9.51
+Cumulative 1/2/3-gram BLEU: 31.1, 19.42, 13.09
+Individual 2/3/4-gram BLEU: 12.13, 5.94, 3.65
+CodeBert Smooth Bleu: 21.261063
+Other Smooth Bleu: 31.220000
+
+[INFO] Epoch 7: Train Loss: 2.266, 113.16 secs [Total 1118.01 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 9.26
+Cumulative 1/2/3-gram BLEU: 30.75, 19.1, 12.78
+Individual 2/3/4-gram BLEU: 11.86, 5.72, 3.52
+CodeBert Smooth Bleu: 21.067935
+Other Smooth Bleu: 31.680000
+
+[INFO] Epoch 8: Train Loss: 2.230, 104.91 secs [Total 1276.96 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 9.39
+Cumulative 1/2/3-gram BLEU: 30.54, 19.12, 12.89
+Individual 2/3/4-gram BLEU: 11.97, 5.86, 3.62
+CodeBert Smooth Bleu: 20.892062
+Other Smooth Bleu: 31.230000
+
+[INFO] Epoch 9: Train Loss: 2.200, 91.15 secs [Total 1425.43 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 9.66
+Cumulative 1/2/3-gram BLEU: 32.21, 19.92, 13.31
+Individual 2/3/4-gram BLEU: 12.32, 5.94, 3.7
+CodeBert Smooth Bleu: 20.996824
+Other Smooth Bleu: 32.460000
+
+[INFO] Epoch 10: Train Loss: 2.174, 117.68 secs [Total 1593.60 secs]
+[INFO] Cumulative 4-gram BLEU (BLEU-4): 9.54
+Cumulative 1/2/3-gram BLEU: 32.07, 19.71, 13.16
+Individual 2/3/4-gram BLEU: 12.11, 5.86, 3.63
+CodeBert Smooth Bleu: 20.964106
+Other Smooth Bleu: 32.230000
+
+[INFO] Output Model to ./model.pth

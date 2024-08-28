@@ -1,0 +1,48 @@
+informative
++-------------+----+----+----+----+----+------------+-----+-----+----+
+|  model type | 0  | 1  | 2  | 3  | 4  |  Avg(Std)  |  ≥3 |  ≥2 | ≤1 |
++-------------+----+----+----+----+----+------------+-----+-----+----+
+|   cocogum   | 12 | 44 | 40 | 52 | 52 | 2.44(1.25) | 104 | 144 | 56 |
+| ast_att_gru | 20 | 44 | 56 | 56 | 24 | 2.1(1.17)  |  80 | 136 | 64 |
+|    astnn    | 24 | 56 | 76 | 32 | 12 | 1.76(1.05) |  44 | 120 | 80 |
+|    rencos   | 20 | 68 | 68 | 28 | 16 | 1.76(1.07) |  44 | 112 | 88 |
++-------------+----+----+----+----+----+------------+-----+-----+----+
+cocogum and ast_att_gru, pvalue:1.825527203629739e-05, cliffsDelta:0.156, effect size:small
+cocogum and astnn, pvalue:2.709888059486224e-13, cliffsDelta:0.3092, effect size:small
+cocogum and rencos, pvalue:1.719360977435658e-14, cliffsDelta:0.31, effect size:small
+ast_att_gru and astnn, pvalue:2.4353078610983644e-05, cliffsDelta:0.1712, effect size:small
+ast_att_gru and rencos, pvalue:3.11196201364771e-06, cliffsDelta:0.1768, effect size:small
+astnn and rencos, pvalue:0.9070154016612549, cliffsDelta:0.014, effect size:negligible
+********************************************************************************
+naturalness
++-------------+----+----+----+----+-----+------------+-----+-----+----+
+|  model type | 0  | 1  | 2  | 3  |  4  |  Avg(Std)  |  ≥3 |  ≥2 | ≤1 |
++-------------+----+----+----+----+-----+------------+-----+-----+----+
+|   cocogum   | 0  | 24 | 20 | 32 | 124 | 3.28(1.06) | 156 | 176 | 24 |
+| ast_att_gru | 5  | 12 | 34 | 73 |  75 | 2.99(1.04) | 148 | 182 | 17 |
+|    astnn    | 20 | 64 | 60 | 8  |  48 | 2.0(1.31)  |  56 | 116 | 84 |
+|    rencos   | 16 | 24 | 44 | 72 |  44 | 2.52(1.19) | 116 | 160 | 40 |
++-------------+----+----+----+----+-----+------------+-----+-----+----+
+cocogum and ast_att_gru, pvalue:0.005199298109003117, cliffsDelta:0.1985, effect size:small
+cocogum and astnn, pvalue:3.25973539392304e-19, cliffsDelta:0.5044, effect size:large
+cocogum and rencos, pvalue:1.6021504818575375e-10, cliffsDelta:0.3912, effect size:medium
+ast_att_gru and astnn, pvalue:3.5937891887909547e-13, cliffsDelta:0.4277, effect size:medium
+ast_att_gru and rencos, pvalue:1.389556493502587e-05, cliffsDelta:0.2297, effect size:small
+astnn and rencos, pvalue:9.087372973855864e-05, cliffsDelta:-0.2412, effect size:small
+********************************************************************************
+similarity
++-------------+----+----+----+----+----+------------+----+-----+-----+
+|  model type | 0  | 1  | 2  | 3  | 4  |  Avg(Std)  | ≥3 |  ≥2 |  ≤1 |
++-------------+----+----+----+----+----+------------+----+-----+-----+
+|   cocogum   | 16 | 52 | 52 | 44 | 36 | 2.16(1.22) | 80 | 132 |  68 |
+| ast_att_gru | 16 | 64 | 44 | 68 | 8  | 1.94(1.07) | 76 | 120 |  80 |
+|    astnn    | 36 | 84 | 44 | 28 | 8  | 1.44(1.06) | 36 |  80 | 120 |
+|    rencos   | 20 | 92 | 52 | 24 | 12 | 1.58(1.02) | 36 |  88 | 112 |
++-------------+----+----+----+----+----+------------+----+-----+-----+
+cocogum and ast_att_gru, pvalue:0.0075075473639568124, cliffsDelta:0.0968, effect size:negligible
+cocogum and astnn, pvalue:2.2965175268331475e-12, cliffsDelta:0.3308, effect size:medium
+cocogum and rencos, pvalue:5.098098996276746e-12, cliffsDelta:0.2748, effect size:small
+ast_att_gru and astnn, pvalue:1.1884826506779779e-07, cliffsDelta:0.26, effect size:small
+ast_att_gru and rencos, pvalue:3.8587571607369e-07, cliffsDelta:0.1988, effect size:small
+astnn and rencos, pvalue:0.063275391729471, cliffsDelta:-0.0772, effect size:negligible
+

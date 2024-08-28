@@ -1,0 +1,20 @@
+********************************************************************************
+naturalness
++-------------+---+----+----+----+----+------------+----+----+----+
+|  model type | 0 | 1  | 2  | 3  | 4  |  Avg(Std)  | ≥3 | ≥2 | ≤1 |
++-------------+---+----+----+----+----+------------+----+----+----+
+|   cocogum   | 0 | 16 | 8  | 8  | 48 | 3.1(1.22)  | 56 | 64 | 16 |
+| ast_att_gru | 5 | 10 | 18 | 25 | 21 | 2.55(1.24) | 46 | 64 | 15 |
+|    astnn    | 4 | 16 | 36 | 16 | 8  | 2.1(0.99)  | 24 | 60 | 20 |
+|    rencos   | 0 | 16 | 16 | 24 | 24 |  2.7(1.1)  | 48 | 64 | 16 |
++-------------+---+----+----+----+----+------------+----+----+----+
+cocogum and ast_att_gru, pvalue:0.010428519432649703, cliffsDelta:0.27625, effect size:small
+cocogum and astnn, pvalue:1.358873019138916e-06, cliffsDelta:0.455, effect size:medium
+cocogum and rencos, pvalue:0.0406028587363679, cliffsDelta:0.23, effect size:small
+ast_att_gru and astnn, pvalue:0.022851561088956435, cliffsDelta:0.253125, effect size:small
+ast_att_gru and rencos, pvalue:0.4508675110318311, cliffsDelta:-0.05, effect size:negligible
+astnn and rencos, pvalue:0.0013770129309611135, cliffsDelta:-0.3, effect size:small
+ cocogum in naturalness: Krippendorff's alpha for ordinal metric: 1.0
+ ast_att_gru in naturalness: Krippendorff's alpha for ordinal metric: 0.5966803278688524
+ astnn in naturalness: Krippendorff's alpha for ordinal metric: 1.0
+ rencos in naturalness: Krippendorff's alpha for ordinal metric: 1.0

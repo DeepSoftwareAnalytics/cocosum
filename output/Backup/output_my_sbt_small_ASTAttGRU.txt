@@ -1,0 +1,122 @@
+[INFO] [Setting] Method: ast-att-gru
+[INFO] [Setting] model_input_data_path: ./data/my_sbt_small/dataset.pkl
+[INFO] [Setting] GPU id: 0
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] batch_size: 128
+[INFO] [Setting] emb_dim & hidden size: 128
+[INFO] [Setting] lr: 0.001000
+[INFO] [Setting] num_epochs: 10
+[INFO] [Setting] num_subprocesses: 4
+[INFO] [Setting] eval_frequency: 1
+[INFO] [Setting] device: cuda
+[INFO] Finish Preparation 4.05 secs [Total 4.05 secs]
+[INFO] token_vocab_size 12460, sbt_vocab_size 108819, summary_vocab_size 12087
+[INFO] train 22495, test 12261, valid 20029
+[INFO] Epoch 1: Train Loss: 6.049, 163.77 secs [Total 167.82 secs]
+[INFO] length of predicted sentence: avg 127.885417 std 3.619012
+[INFO] for 19968 functions
+Ba 0.07
+B1 1.29
+B2 0.29
+B3 0.03
+B4 0.0
+
+[INFO] Epoch 2: Train Loss: 5.109, 155.79 secs [Total 408.13 secs]
+[INFO] length of predicted sentence: avg 16.103065 std 8.813079
+[INFO] for 19968 functions
+Ba 0.61
+B1 11.33
+B2 1.75
+B3 0.2
+B4 0.03
+
+[INFO] Epoch 3: Train Loss: 4.763, 159.50 secs [Total 640.55 secs]
+[INFO] length of predicted sentence: avg 11.692358 std 1.686181
+[INFO] for 19968 functions
+Ba 0.54
+B1 9.38
+B2 1.34
+B3 0.18
+B4 0.04
+
+[INFO] Epoch 4: Train Loss: 4.505, 159.40 secs [Total 871.56 secs]
+[INFO] length of predicted sentence: avg 12.656951 std 4.280938
+[INFO] for 19968 functions
+Ba 0.54
+B1 10.12
+B2 1.53
+B3 0.17
+B4 0.03
+
+[INFO] Epoch 5: Train Loss: 4.276, 158.36 secs [Total 1102.41 secs]
+[INFO] length of predicted sentence: avg 6.935096 std 4.798556
+[INFO] for 19968 functions
+Ba 0.33
+B1 3.55
+B2 0.61
+B3 0.12
+B4 0.05
+
+[INFO] Epoch 6: Train Loss: 4.077, 153.03 secs [Total 1323.15 secs]
+[INFO] length of predicted sentence: avg 12.232973 std 6.064541
+[INFO] for 19968 functions
+Ba 0.68
+B1 10.26
+B2 1.66
+B3 0.21
+B4 0.06
+
+[INFO] Epoch 7: Train Loss: 3.892, 155.67 secs [Total 1545.84 secs]
+[INFO] length of predicted sentence: avg 10.595703 std 5.524580
+[INFO] for 19968 functions
+Ba 0.73
+B1 8.68
+B2 1.42
+B3 0.24
+B4 0.09
+
+[INFO] Epoch 8: Train Loss: 3.722, 157.66 secs [Total 1772.38 secs]
+[INFO] length of predicted sentence: avg 9.954177 std 7.308071
+[INFO] for 19968 functions
+Ba 0.5
+B1 7.3
+B2 1.19
+B3 0.16
+B4 0.05
+
+[INFO] Epoch 9: Train Loss: 3.558, 156.11 secs [Total 1995.25 secs]
+[INFO] length of predicted sentence: avg 9.617889 std 6.419920
+[INFO] for 19968 functions
+Ba 0.35
+B1 6.86
+B2 1.03
+B3 0.11
+B4 0.02
+
+[INFO] Epoch 10: Train Loss: 3.409, 158.22 secs [Total 2218.24 secs]
+[INFO] length of predicted sentence: avg 8.191857 std 8.219239
+[INFO] for 19968 functions
+Ba 0.26
+B1 4.8
+B2 0.68
+B3 0.08
+B4 0.02
+
+/home/yanlwang/anaconda3/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type AstAttGRUModel. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type GRUEncoder. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Embedding. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type GRU. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type ASTAttnGRUDecoder. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type GRUCell. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Sequential. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Linear. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/yanlwang/anaconda3/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type ReLU. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
